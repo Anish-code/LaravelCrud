@@ -1,0 +1,2 @@
+# LaravelCrud
+Basic Crud demonstration
